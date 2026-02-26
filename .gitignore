@@ -14,3 +14,4 @@ spock.control
 tags
 .vscode
 tmp/
+docs/plans/
